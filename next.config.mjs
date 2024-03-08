@@ -14,6 +14,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+
+  basePath: '/trialwebsite',
 }
 
 const withMDX = nextMDX({
